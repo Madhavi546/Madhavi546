@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Hi, I am Madhavi 👋  <br><br>I am an aspiring AI/ML Engineer with a strong interest in building intelligent systems.  <br>I have completed projects using Python and Machine Learning, including Predictive Maintenance.  <br><br>I am currently learning new technologies and improving my problem-solving skills every day.
 
